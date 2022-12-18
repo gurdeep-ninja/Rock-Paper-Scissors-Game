@@ -2,13 +2,13 @@
 
 ## Description
 
-A simple JavaScript game that prompts the players to select either rock, paper or scissors.
+A simple JavaScript game that prompts the player to select either rock, paper or scissors.
 
-The game will then compare the players choice against the computer and calculate the result
+The game will then compare the player's choice against the computer and calculate the result.
 
-After 10 games, a score card displayed to the player with total Wins, Loses & Draws. 
+After 10 games a score card is displayed to the player with total Wins, Loses & Draws. 
 
-The player is asked if they would like to play again too.
+The player is asked if they would like to play again.
 
 ## Live demo
 
